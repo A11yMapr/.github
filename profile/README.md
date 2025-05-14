@@ -1,6 +1,6 @@
 ## Welcome to A11y Mapr: Reimagining Access for a More Human World
 
-A11yMapr is a community-driven platform that maps and rates the accessibility of public spaces globally. We are revolutionizing how people with disabilities interact—physically and digitally. We imagine a world where every person — regardless of disability — can navigate, access, and own both public and digital spaces with full autonomy and dignity. 
+A11yMapr is a community-driven platform that maps and rates the accessibility of public and digital spaces. We are revolutionizing how people with disabilities interact—physically and digitally. We imagine a world where every person — regardless of disability — can navigate, access, and own both public and digital spaces with full autonomy and dignity. 
 
 Built for, with, and by disabled people, this project allows everyone to contribute data about access barriers, inclusive features, and infrastructure gaps.
 
